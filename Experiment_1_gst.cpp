@@ -16,7 +16,7 @@ int main(){
     cin >> gst;
 
     if(gst < 0 || gst > 28){
-        cout << "Enter the GST rate between 0 and 28 and try again."
+        cout << "Enter the GST rate between 0 and 28 and try again.";
         return 0;
     }
 
