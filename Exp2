@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    //Let the three numbers be a,b and c.
+    
+    int a, b, c;
+    
+    cout << "Enter the three numbers: \n a: ";
+    cin>> a;
+    cout<< " b: ";
+    cin>>b;
+    cout<< " c: ";
+    cin>> c;
+    
+    if(a>b )
+
+    return 0;
+}
